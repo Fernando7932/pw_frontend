@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Observación
+Profe, de casualidad a la hora de subir el fix-up con todos los parches ya resueltos forcé el pusheo y se borraron todos los commits. Pensaba que habia
+creado otra branch para el trabajo final. Todos los integrantes dentro del branch master subiran el contenido que ellos avanzaron.
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
